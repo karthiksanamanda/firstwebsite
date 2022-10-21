@@ -1,0 +1,172 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #1C3879;
+font-size: 55px;
+}
+
+.myskill-header {
+  font-size: 35px;
+  margin-top: 18px;
+}
+
+
+
+h2 {
+  color: #06283D;
+  font-weight: normal;
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+
+hr{
+  border-top: 5px dotted #25316D;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.welcome-para {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+
+.copywrite-tag{
+  color: #DFF6FF;
+  margin-top: 35px;
+}
+
+p {
+  color: #25316;
+  font-size: 15px
+}
+
+
+
+
+.top-container {
+  background-color: #DFF6FF;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #DFF6FF;
+  padding-top: 75px;
+padding-bottom: 35px;
+
+}
+
+.bottom-container {
+  background-color:#72b352 ;
+padding-top: 25px;
+padding-bottom: 25px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 340px;
+  top: 310px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 320px;
+  top: 40px;
+}
+
+.skills-imag {
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+  float: left;
+}
+
+.skills-imag2 {
+  width: 210px;
+  height: 210px;
+  border-radius: 100%;
+  float: right;
+  margin-left: 15px;
+  padding-left:
+}
+
+
+.skill-row {
+  width: 55%;
+  margin: 120px auto 220px auto;
+  line-height: 2;
+  text-align: left;
+  font-size: 35px
+}
+
+.Film-making {
+  width: 55%;
+  margin: 110px auto 220px auto;
+
+  line-height: 2;
+  text-align: left;
+
+}
+
+
+
+
+.thank-para{
+  font-size: 35px;
+}
+
+.feedback-para{
+  margin: 30px auto 35px auto
+}
+
+
+
+.Pro {
+  text-decoration: underline;
+}
+.Bold{
+  font-weight: bolder;
+}
+.footer-link{
+  margin-bottom: 550px;
+}
+
+a{
+  color: #DFF6FF;
+    font-famil:'Merriweather', serif;
+    margin: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+  color: black;
+}
+
+
+
+.btn {
+  font-size:20px;
+  font-famil:'Merriweather', serif;
+  width:140px;
+  height:50px;
+  border-width:5px;
+  color:#DFF6FF;
+  border-color:#72b352;
+  font-weight:bold;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  box-shadow:inset 0px 10px 14px -7px #3e7327;
+  text-shadow:inset 0px 1px 1px #5b8a3c;
+  background:linear-gradient(#77b55a, #72b352);
+}
+
+.btn:hover {
+  background: linear-gradient(#black , #77b55a);
+}
